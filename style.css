@@ -1,0 +1,30 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #FFE5E7, #B86B77);
+    margin: 0;
+    padding: 50px;
+    text-align: center;
+    color: #333;
+}
+
+h1 {
+    font-size: 2.5em;
+    color: #915858;
+    margin-bottom: 30px;
+}
+
+a {
+    display: inline-block;
+    padding: 12px 24px;
+    text-decoration: none;
+    color: #915858;
+    background-color: #FFE8E5;
+    border-radius: 8px;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+
+a:hover {
+    background-color: pink;
+}
